@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="statusbar">#1B202D</color>
+    <color name="statusbarLogIn">#222222</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button">#05028F</color>
+    <color name="backImg">#D5D5D5</color>
+    <color name="buttonVariant">#0502FF</color>
+    <color name="backNotif">#FFFFEDD3</color>
+    <color name="backCardChat">#eeeeee</color>
+    <color name="background">#1C202C</color>
+    <color name="myMsg">#7A8194</color>
+    <color name="otherMsg">#373E4E</color>
+    <color name="buttonClose">#DD0303</color>
+    <color name="deleteCard">#FFE7E7</color>
+    <color name="connectedStatus">#8AFF77</color>
+    <color name="desconectedStatus">#EB6472</color>
+    <color name="afkStatus">#FFC746</color>
+    <color name="inCallStatus">#98A1F1</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

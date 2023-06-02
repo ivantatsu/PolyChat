@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PolyChat</string>
+    <string name="logIn">Iniciar Sesión</string>
+    <string name="newUser">Nuevo usuario</string>
+    <string name="register">Registrar</string>
+    <string name="user">Usuario</string>
+    <string name="email">Email</string>
+    <string name="confirmPassword">Confirmar Contraseña</string>
+    <string name="password">Contraseña</string>
+</resources>

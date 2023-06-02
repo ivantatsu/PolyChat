@@ -1,0 +1,21 @@
+{
+    "appName": "polychat",
+    "roleName": "pinpointLambdaRole276baf52",
+    "cloudformationPolicyName": "cloudformationPolicy276baf52",
+    "cloudWatchPolicyName": "cloudWatchPolicy276baf52",
+    "pinpointPolicyName": "pinpointPolicy276baf52",
+    "authPolicyName": "pinpoint_amplify_276baf52",
+    "unauthPolicyName": "pinpoint_amplify_276baf52",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

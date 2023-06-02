@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-polychat-dev-113230-authRole",
+      "UnauthRoleArn": "arn:aws:iam::537553337415:role/amplify-polychat-dev-113230-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::537553337415:role/amplify-polychat-dev-113230-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-polychat-dev-113230-deployment",
+      "UnauthRoleName": "amplify-polychat-dev-113230-unauthRole",
+      "StackName": "amplify-polychat-dev-113230",
+      "StackId": "arn:aws:cloudformation:eu-west-3:537553337415:stack/amplify-polychat-dev-113230/ecaa8530-ebf0-11ed-8b6c-0ad0b01bdff6",
+      "AmplifyAppId": "d1miih8a72rxz2"
+    },
+    "categories": {
+      "auth": {
+        "polychat0f723522": {}
+      },
+      "function": {
+        "polychatb835f798": {}
+      },
+      "storage": {
+        "s381fecf06": {}
+      },
+      "analytics": {
+        "polychat": {},
+        "Pinpoint": {
+          "Name": "polychat-dev",
+          "Id": "6dc0b932a68144c9873072fe210b9c1c",
+          "Region": "eu-west-1"
+        }
+      },
+      "notifications": {
+        "Pinpoint": {
+          "Name": "polychat-dev",
+          "Id": "6dc0b932a68144c9873072fe210b9c1c",
+          "Region": "eu-west-1"
+        }
+      }
+    }
+  }
+}
